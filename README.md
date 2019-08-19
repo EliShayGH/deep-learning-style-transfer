@@ -5,6 +5,8 @@ The goal of the project was to use a pre-trained convolutional neural network to
 In order to do so I used the VGG19 pre-trained model, with alpha of 1 and beta of 1e6<br/>
 Code is written in python with PyTorch library on a Jupyter Notebook platform.
 
+![](header.png)
+
 ## Table of Contents
 
 * [Load the Notebook](#load-the-notebook)
